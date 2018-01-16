@@ -1,0 +1,1075 @@
+﻿Log file open, 01/01/18 15:45:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PianoPlayerVR
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1083177131) SRandInit(1083177131).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.274878
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Binaries/Win64/UE4Editor-PianoPlayerVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.01-20.45.36:916][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.01-20.45.36:916][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.01-20.45.37:044][  0]LogInit: Computer: DESKTOP-DGGB1K0
+[2018.01.01-20.45.37:044][  0]LogInit: User: JonathanOates
+[2018.01.01-20.45.37:044][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.01-20.45.37:045][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.01.01-20.45.37:045][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.01-20.45.37:046][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.01-20.45.37:046][  0]LogMemory: Process Physical Memory: 274.13 MB used, 274.13 MB peak
+[2018.01.01-20.45.37:046][  0]LogMemory: Process Virtual Memory: 265.14 MB used, 265.14 MB peak
+[2018.01.01-20.45.37:046][  0]LogMemory: Physical Memory: 5137.26 MB used,  11113.01 MB free, 16250.27 MB total
+[2018.01.01-20.45.37:046][  0]LogMemory: Virtual Memory: 659.10 MB used,  11113.01 MB free, 134217728.00 MB total
+[2018.01.01-20.45.38:199][  0]LogInit: Using OS detected language (en-US).
+[2018.01.01-20.45.38:199][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.01-20.45.38:336][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.01-20.45.39:270][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.01-20.45.40:932][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.01-20.45.40:988][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.01.01-20.45.40:988][  0]LogD3D11RHI:       4029/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.01-20.45.40:997][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.01-20.45.40:997][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.01-20.45.41:007][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.01-20.45.41:007][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.01-20.45.41:007][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.01-20.45.41:012][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.01-20.45.41:013][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.01.01-20.45.41:013][  0]LogWindows: EnumDisplayDevices:
+[2018.01.01-20.45.41:013][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.01-20.45.41:013][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.01-20.45.41:013][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.01-20.45.41:013][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.01.01-20.45.41:013][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.01-20.45.41:013][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.01.01-20.45.41:013][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.01-20.45.41:013][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.01-20.45.41:013][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2018.01.01-20.45.41:044][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.01-20.45.41:402][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.01-20.45.41:496][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Intermediate/Shaders/WorkingDirectory/13896/).
+[2018.01.01-20.45.41:497][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jonathan Oates/AppData/Local/Temp/UnrealShaderWorkingDir/899DBCE0449B2D18EBAC7EBA4DC4FCBC/'.
+[2018.01.01-20.45.41:511][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.01-20.45.46:590][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.01-20.45.46:651][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.01-20.45.46:711][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.01-20.45.46:764][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.01-20.45.46:826][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.01-20.45.46:881][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.01-20.45.46:930][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.01-20.45.46:979][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.01-20.45.47:024][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.01-20.45.47:092][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.01-20.45.47:168][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.01-20.45.47:246][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.01-20.45.47:313][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.01-20.45.47:385][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.01-20.45.47:541][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.01-20.45.47:541][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.01-20.45.47:644][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.01-20.45.47:700][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.01-20.45.47:890][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.01-20.45.47:955][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.01-20.45.48:034][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.01-20.45.48:088][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.01-20.45.48:149][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.01-20.45.48:255][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.01-20.45.48:255][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.01-20.45.49:682][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.01-20.45.50:222][  0]LogDerivedDataCache: Loaded boot cache 0.54s 78MB C:/Users/Jonathan Oates/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.01-20.45.50:222][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jonathan Oates/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.01-20.45.50:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.01-20.45.50:222][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.01-20.45.50:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.01-20.45.50:223][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.01-20.45.50:334][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.01-20.45.50:348][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jonathan Oates/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.01-20.45.50:425][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.01-20.45.50:469][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.01-20.45.50:564][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.01-20.45.50:567][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.01-20.45.56:425][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.01-20.45.58:662][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.01-20.45.58:798][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.01-20.45.58:819][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.01-20.45.58:819][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.01-20.45.58:819][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.01-20.45.58:819][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.01-20.45.59:404][  0]LogNetVersion: PianoPlayerVR , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1160270021)
+[2018.01.01-20.46.01:449][  0]LogAssetRegistry: FAssetRegistry took 0.0429 seconds to start up
+[2018.01.01-20.46.06:676][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.152548 seconds
+[2018.01.01-20.46.06:709][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.01-20.46.06:709][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.01-20.46.06:709][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.01-20.46.06:763][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.01-20.46.25:417][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.01-20.46.25:528][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.01-20.46.27:526][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.01-20.46.28:678][  0]SourceControl: Source control is disabled
+[2018.01.01-20.46.28:688][  0]SourceControl: Source control is disabled
+[2018.01.01-20.46.28:860][  0]SourceControl: Source control is disabled
+[2018.01.01-20.46.28:963][  0]SourceControl: Source control is disabled
+[2018.01.01-20.46.30:694][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.01-20.46.31:159][  0]LogOcInput: OculusInput pre-init called
+[2018.01.01-20.46.31:980][  0]LogEngine: Initializing Engine...
+[2018.01.01-20.46.32:009][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.01-20.46.32:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.01-20.46.32:905][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.01-20.46.33:413][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.01-20.46.33:557][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-20.46.34:915][  0]LogInit: FAudioDevice initialized.
+[2018.01.01-20.46.35:086][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/Jonathan Oates/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.01-20.46.35:099][  0]LogInit: Texture streaming: Enabled
+[2018.01.01-20.46.35:282][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.01-20.46.35:569][  0]LogInit: Transaction tracking system initialized
+[2018.01.01-20.46.36:371][  0]BlueprintLog: New page: Editor Load
+[2018.01.01-20.46.38:756][  0]LocalizationService: Localization service is disabled
+[2018.01.01-20.46.40:525][  0]LogConsoleResponse: Display: 
+[2018.01.01-20.46.42:493][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/' took 0.01s
+[2018.01.01-20.46.42:493][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.01-20.46.42:493][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.01-20.46.42:505][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.01-20.46.45:552][  0]SourceControl: Source control is disabled
+[2018.01.01-20.46.45:597][  0]Cmd: MAP LOAD FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.01-20.46.45:603][  0]LightingResults: New page: Lighting Build
+[2018.01.01-20.46.45:863][  0]MapCheck: New page: Map Check
+[2018.01.01-20.46.45:863][  0]LightingResults: New page: Lighting Build
+[2018.01.01-20.46.49:948][  0]LogAIModule: Creating AISystem for world test
+[2018.01.01-20.46.50:431][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.01-20.46.50:595][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.01-20.46.50:703][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107.806ms to complete.
+[2018.01.01-20.46.50:703][  0]LogFileHelpers: Loading map 'test' took 5.131
+[2018.01.01-20.46.52:363][  0]LogCollectionManager: Loaded 0 collections in 0.006840 seconds
+[2018.01.01-20.46.52:704][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Collections/' took 0.01s
+[2018.01.01-20.46.52:705][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Developers/JonathanOates/Collections/' took 0.01s
+[2018.01.01-20.46.52:705][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Collections/' took 0.01s
+[2018.01.01-20.46.52:705][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.01-20.46.52:752][  0]LogContentBrowser: Native class hierarchy populated in 0.0401 seconds. Added 2364 classes and 521 folders.
+[2018.01.01-20.46.52:994][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.01.01-20.46.53:851][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0044 seconds. Added 0 classes and 0 folders.
+[2018.01.01-20.46.54:038][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0044 seconds. Added 1 classes and 2 folders.
+[2018.01.01-20.46.54:838][  0]LogSlate: Took 0.016445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.01-20.46.54:883][  0]LogSlate: Took 0.012034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.01-20.46.54:941][  0]LogSlate: Took 0.009726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.01-20.46.55:481][  0]LogRenderer: Reallocating scene render targets to support 964x364 Format 10 NumSamples 1 (Frame:1).
+[2018.01.01-20.46.56:540][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2018.01.01-20.46.56:540][  0]LogLoad: (Engine Initialization) Total time: 101.51 seconds
+[2018.01.01-20.46.56:540][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.01-20.46.56:540][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.01-20.46.57:038][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.01-20.46.57:227][  0]LogSlate: Took 0.016530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.01-20.46.57:653][  2]LogAssetRegistry: Asset discovery search completed in 56.2258 seconds
+[2018.01.01-20.46.57:699][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.01-20.46.57:699][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000132 seconds (updated 0 objects)
+[2018.01.01-20.46.57:803][  3]LogSlate: Took 0.000967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.01-20.46.58:577][  3]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.01-20.46.59:010][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 116 classes and 0 folders.
+[2018.01.01-20.47.00:990][  3]LogSlate: Took 0.020921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.01-20.48.10:565][276]LogSlate: Took 0.007181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.01-20.50.16:047][742]LogSlate: Took 0.007936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.01-20.50.55:531][ 81]LogEditorTransaction: Undo Add Node
+[2018.01.01-20.50.55:551][ 81]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.01-20.53.09:373][993]LogEditorTransaction: Undo Move Node
+[2018.01.01-20.53.09:623][  5]LogEditorTransaction: Undo Add Node
+[2018.01.01-20.53.09:880][ 17]LogEditorTransaction: Undo Delete current selection
+[2018.01.01-20.53.10:092][ 28]LogEditorTransaction: Undo Delete current selection
+[2018.01.01-20.53.10:332][ 41]LogEditorTransaction: Undo Move Node
+[2018.01.01-20.53.10:553][ 53]LogEditorTransaction: Undo Add Node
+[2018.01.01-20.53.10:760][ 63]LogEditorTransaction: Undo Move Node
+[2018.01.01-20.53.10:995][ 76]LogEditorTransaction: Undo Move Nodes
+[2018.01.01-20.53.11:219][ 88]LogEditorTransaction: Undo Move Node
+[2018.01.01-20.53.11:454][101]LogEditorTransaction: Undo Create Pin Link
+[2018.01.01-20.53.11:675][110]LogEditorTransaction: Undo Move Nodes
+[2018.01.01-20.53.11:928][124]LogEditorTransaction: Undo Create Pin Link
+[2018.01.01-20.53.12:163][137]LogEditorTransaction: Undo Move Node
+[2018.01.01-20.53.12:382][149]LogEditorTransaction: Undo Break Pin Links
+[2018.01.01-20.53.12:600][161]LogEditorTransaction: Undo Rename Parameter
+[2018.01.01-20.53.12:834][174]LogEditorTransaction: Undo Rename Parameter
+[2018.01.01-20.53.13:068][185]LogEditorTransaction: Undo Change Parameter Type
+[2018.01.01-20.53.13:292][197]LogEditorTransaction: Undo Rename Parameter
+[2018.01.01-20.53.13:511][209]LogEditorTransaction: Undo Add Out Parameter
+[2018.01.01-20.53.13:736][221]LogEditorTransaction: Undo Add Out Parameter
+[2018.01.01-20.53.13:965][232]LogEditorTransaction: Undo Add Out Parameter
+[2018.01.01-20.53.14:217][246]LogEditorTransaction: Undo Create Pin Link
+[2018.01.01-20.53.14:449][260]LogEditorTransaction: Undo Rename Parameter
+[2018.01.01-20.53.14:686][273]LogEditorTransaction: Undo Add In Parameter
+[2018.01.01-20.53.14:922][286]LogEditorTransaction: Undo Move Nodes
+[2018.01.01-20.53.15:157][299]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.01-20.53.15:413][312]LogEditorTransaction: Undo Rename Function
+[2018.01.01-20.53.15:662][326]LogEditorTransaction: Undo Remove Graph
+[2018.01.01-20.53.15:915][339]LogEditorTransaction: Undo Delete current selection
+[2018.01.01-20.54.24:999][231]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-20.54.26:130][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-20.54.26:614][254]LogSavePackage: Save=377.61ms
+[2018.01.01-20.54.26:614][254]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReaderBECB0FE64321277EF8D5429C62568AAC.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-20.54.26:634][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-20.54.42:354][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-20.54.42:674][189]LogSavePackage: Save=302.96ms
+[2018.01.01-20.54.42:674][189]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReaderF4456F1049CAC0B2A3975E9E1BA46FB9.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-20.54.42:678][189]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-20.57.00:190][409]LogSavePackage: Save=27.60ms
+[2018.01.01-20.57.00:190][409]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/test_Auto1AFB885544AF07A602E5D029C08762FC4.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Maps/test_Auto1.umap'
+[2018.01.01-20.57.00:193][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Maps/test_Auto1.umap
+[2018.01.01-20.57.00:206][409]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/test' took 0.144
+[2018.01.01-20.57.00:206][409]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.144
+[2018.01.01-20.58.38:786][175]LogEditorTransaction: Undo Resize Node
+[2018.01.01-20.58.39:617][223]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.01-20.58.41:793][351]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/Blueprints/BP_FileReader.BP_FileReader:GetDataFromMeasure.EdGraphNode_Comment_186 or EdGraphNode_Comment /Game/Blueprints/BP_FileReader.BP_FileReader:GetDataFromMeasure.EdGraphNode_Comment_186
+[2018.01.01-20.58.43:444][449]LogEditorTransaction: Undo Resize Node
+[2018.01.01-20.59.48:597][569]LogEditorTransaction: Undo Resize Node
+[2018.01.01-21.00.03:527][ 97]LogEditorTransaction: Undo Resize Node
+[2018.01.01-21.03.22:651][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.03.22:994][949]LogSavePackage: Save=315.83ms
+[2018.01.01-21.03.22:995][949]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReader499D8E304D9D115E9DC4BA8578F84C7C.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.03.22:999][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.03.27:402][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.03.27:752][208]LogSavePackage: Save=328.42ms
+[2018.01.01-21.03.27:752][208]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReader437FEB2F4FA1C549872B459FFDBA46C8.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.03.27:756][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.03.31:285][420]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.04.16:899][123]LogEditorTransaction: Undo Rename Parameter
+[2018.01.01-21.08.01:989][694]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.09.07:219][566]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.09.17:886][177]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.10.47:823][501]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.10.59:979][197]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.11.51:498][567]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_1' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_1' is empty
+[2018.01.01-21.11.56:239][846]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_5' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_5' is empty
+[2018.01.01-21.11.58:032][949]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_9' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_9' is empty
+[2018.01.01-21.11.58:425][968]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_13' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_13' is empty
+[2018.01.01-21.12.00:936][113]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_17' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_17' is empty
+[2018.01.01-21.12.01:594][148]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_21' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_21' is empty
+[2018.01.01-21.12.05:846][396]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_25' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_25' is empty
+[2018.01.01-21.12.25:071][411]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_29' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_29' is empty
+[2018.01.01-21.12.30:947][759]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_33' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_33' is empty
+[2018.01.01-21.12.37:193][128]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_37' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_37' is empty
+[2018.01.01-21.12.45:869][643]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_41' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_41' is empty
+[2018.01.01-21.12.49:770][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structs/Note" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset" SILENT=true
+[2018.01.01-21.12.49:803][871]LogSavePackage: Save=3.86ms
+[2018.01.01-21.12.49:803][871]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/NoteF256C89F45F1914DCB8B449D792AA331.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset'
+[2018.01.01-21.12.49:807][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset
+[2018.01.01-21.13.29:376][232]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.13.29:469][232]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Octave  no longer exists on node  Break Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.13.29:474][232]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Octave  no longer exists on node  Make Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.13.29:737][232]LogBlueprint: Warning: [Compiler BP_FileReader] [1694.70] Compile of BP_FileReader failed. 2 Fatal Issue(s) 0 Warning(s) [in 360 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.13.45:747][187]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.13.45:846][187]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Octave  no longer exists on node  Make Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.13.45:968][187]LogBlueprint: Warning: [Compiler BP_FileReader] [1710.93] Compile of BP_FileReader failed. 1 Fatal Issue(s) 0 Warning(s) [in 221 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.13.51:132][493]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.14.52:250][125]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.15.03:400][764]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.15.31:892][443]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_45' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_45' is empty
+[2018.01.01-21.15.37:190][755]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_49' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_49' is empty
+[2018.01.01-21.15.39:884][908]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_53' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_53' is empty
+[2018.01.01-21.15.40:832][960]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_57' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_57' is empty
+[2018.01.01-21.15.41:428][991]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_61' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_61' is empty
+[2018.01.01-21.15.41:925][ 16]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_65' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_65' is empty
+[2018.01.01-21.15.42:404][ 40]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_69' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_69' is empty
+[2018.01.01-21.15.42:934][ 67]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_73' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_73' is empty
+[2018.01.01-21.15.43:500][ 96]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_77' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_77' is empty
+[2018.01.01-21.15.43:944][118]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_81' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_81' is empty
+[2018.01.01-21.15.44:523][148]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_85' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_85' is empty
+[2018.01.01-21.15.45:236][186]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_89' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_89' is empty
+[2018.01.01-21.15.48:152][356]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_93' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_93' is empty
+[2018.01.01-21.15.50:131][470]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_97' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_97' is empty
+[2018.01.01-21.15.51:135][525]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_101' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_101' is empty
+[2018.01.01-21.15.52:567][606]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_105' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_105' is empty
+[2018.01.01-21.15.54:485][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structs/Note" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset" SILENT=true
+[2018.01.01-21.15.54:519][715]LogSavePackage: Save=8.71ms
+[2018.01.01-21.15.54:519][715]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Note6BD473CB442B9411219EDBBC36ABC6A8.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset'
+[2018.01.01-21.15.54:528][715]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset
+[2018.01.01-21.16.03:878][276]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_109' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_109' is empty
+[2018.01.01-21.16.13:950][872]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_113' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_113' is empty
+[2018.01.01-21.16.16:223][  2]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_117' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_117' is empty
+[2018.01.01-21.16.17:526][ 75]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_121' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_121' is empty
+[2018.01.01-21.16.18:110][105]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_125' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_125' is empty
+[2018.01.01-21.16.18:659][133]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_129' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_129' is empty
+[2018.01.01-21.16.19:208][161]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_133' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_133' is empty
+[2018.01.01-21.16.20:106][210]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_137' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_137' is empty
+[2018.01.01-21.16.21:271][275]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_141' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_141' is empty
+[2018.01.01-21.16.22:955][371]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_145' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_145' is empty
+[2018.01.01-21.16.24:522][460]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_Measure_149' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_Measure_149' is empty
+[2018.01.01-21.16.26:484][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structs/Note" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset" SILENT=true
+[2018.01.01-21.16.26:500][572]LogSavePackage: Save=5.15ms
+[2018.01.01-21.16.26:500][572]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/NoteBB4A0EEF4D08A7B4BD3D8E9939F9BDC2.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset'
+[2018.01.01-21.16.26:505][572]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset
+[2018.01.01-21.16.27:187][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structs/Note" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset" SILENT=true
+[2018.01.01-21.16.27:223][612]LogSavePackage: Save=7.83ms
+[2018.01.01-21.16.27:223][612]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Note9F17D61146B1C32500712CB47F2257BE.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset'
+[2018.01.01-21.16.27:225][612]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Note.uasset
+[2018.01.01-21.17.42:889][366]LogEditorTransaction: Undo Resize Node
+[2018.01.01-21.18.30:933][803]LogEditorTransaction: Undo Resize Node
+[2018.01.01-21.21.49:935][509]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.21.51:840][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.21.52:131][565]LogSavePackage: Save=272.44ms
+[2018.01.01-21.21.52:131][565]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReader3E6A54504C46A916AEB909AA852DA76D.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.21.52:136][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.22.44:541][696]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.22.44:627][696]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Requires Alt  no longer exists on node  ConstructNoteFromNote . Please refresh node or break links to remove pin.
+[2018.01.01-21.22.44:628][696]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Requires Alt  no longer exists on node  ConstructNoteFromRest . Please refresh node or break links to remove pin.
+[2018.01.01-21.22.44:772][696]LogBlueprint: Warning: [Compiler BP_FileReader] [2249.74] Compile of BP_FileReader failed. 2 Fatal Issue(s) 0 Warning(s) [in 230 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.22.54:565][272]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.23.31:386][448]LogSavePackage: Save=25.95ms
+[2018.01.01-21.23.31:386][448]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/test_Auto2FA2C402F4CA41AD70CD1CA9AAB15EDFA.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Maps/test_Auto2.umap'
+[2018.01.01-21.23.31:388][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Maps/test_Auto2.umap
+[2018.01.01-21.23.31:390][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/test' took 0.066
+[2018.01.01-21.23.31:391][448]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2018.01.01-21.23.31:395][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FileReader] ([1] browsable assets)...
+[2018.01.01-21.23.31:395][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FileReader]
+[2018.01.01-21.23.31:675][448]LogSavePackage: Save=267.92ms
+[2018.01.01-21.23.31:675][448]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReader_Auto27A3161AA4EFABCBDDF9F1799A4567799.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_FileReader_Auto2.uasset'
+[2018.01.01-21.23.31:725][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_FileReader_Auto2.uasset
+[2018.01.01-21.23.31:726][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Structs/Measure] ([1] browsable assets)...
+[2018.01.01-21.23.31:726][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structs/Measure]
+[2018.01.01-21.23.31:746][448]LogSavePackage: Save=5.48ms
+[2018.01.01-21.23.31:747][448]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Measure_Auto2E00BBA144AF77C90EA53D09DD513539F.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Structs/Measure_Auto2.uasset'
+[2018.01.01-21.23.31:752][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Structs/Measure_Auto2.uasset
+[2018.01.01-21.23.31:755][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_MeasureSpawner] ([1] browsable assets)...
+[2018.01.01-21.23.31:804][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner]
+[2018.01.01-21.23.31:804][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MeasureSpawner]
+[2018.01.01-21.23.32:075][448]LogSavePackage: Save=247.92ms
+[2018.01.01-21.23.32:075][448]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_MeasureSpawner_Auto286915113404AD7DC7BF3E4B57929D348.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_MeasureSpawner_Auto2.uasset'
+[2018.01.01-21.23.32:078][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_MeasureSpawner_Auto2.uasset
+[2018.01.01-21.23.32:080][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Note] ([1] browsable assets)...
+[2018.01.01-21.23.32:101][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Note.BP_Note]
+[2018.01.01-21.23.32:101][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Note]
+[2018.01.01-21.23.32:397][448]LogSavePackage: Save=283.30ms
+[2018.01.01-21.23.32:397][448]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_Note_Auto2CC5581824A94BFA59C8DFA9732D0E7EF.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_Note_Auto2.uasset'
+[2018.01.01-21.23.32:402][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_Note_Auto2.uasset
+[2018.01.01-21.23.32:404][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Measure] ([1] browsable assets)...
+[2018.01.01-21.23.32:425][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Measure.BP_Measure]
+[2018.01.01-21.23.32:425][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Measure]
+[2018.01.01-21.23.33:151][448]LogSavePackage: Save=711.15ms
+[2018.01.01-21.23.33:151][448]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_Measure_Auto27364B67A4EB459DE6F6F489941978786.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_Measure_Auto2.uasset'
+[2018.01.01-21.23.33:153][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Autosaves/Game/Blueprints/BP_Measure_Auto2.uasset
+[2018.01.01-21.23.33:153][448]LogFileHelpers: Auto-saving content packages took 1.761
+[2018.01.01-21.24.17:785][116]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.24.26:487][610]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.25.27:096][176]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.25.37:227][757]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.25.42:887][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.25.43:177][ 70]LogSavePackage: Save=275.03ms
+[2018.01.01-21.25.43:177][ 70]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReaderAD060B234352003E42AA769B2959F50C.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.25.43:183][ 70]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.25.58:823][303]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.01-21.28.40:930][381]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/BP_FileReader.BP_FileReader:ConstructNoteFromRest.K2Node_CallFunction_1304 or K2Node_CallFunction /Game/Blueprints/BP_FileReader.BP_FileReader:ConstructNoteFromRest.K2Node_CallFunction_1304
+[2018.01.01-21.29.01:387][606]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.29.21:944][809]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.01-21.29.26:257][ 63]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/BP_FileReader.BP_FileReader:ConstructNoteFromChord.K2Node_CallFunction_233 or K2Node_CallFunction /Game/Blueprints/BP_FileReader.BP_FileReader:ConstructNoteFromChord.K2Node_CallFunction_233
+[2018.01.01-21.30.58:984][ 35]LogEditorTransaction: Undo Resize Node
+[2018.01.01-21.33.37:794][512]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.33.38:923][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/test" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.01-21.33.38:981][545]LogSavePackage: Save=26.41ms
+[2018.01.01-21.33.38:981][545]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/test935442094B6138532723738B0DA5928F.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap'
+[2018.01.01-21.33.38:985][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap
+[2018.01.01-21.33.39:011][545]LogFileHelpers: Saving map 'test' took 0.178
+[2018.01.01-21.33.39:017][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.33.39:323][545]LogSavePackage: Save=291.43ms
+[2018.01.01-21.33.39:323][545]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReaderFBFA7EA443FE3F643304B3B5B98703F2.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.33.39:328][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.33.39:334][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structs/Measure" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Measure.uasset" SILENT=true
+[2018.01.01-21.33.39:350][545]LogSavePackage: Save=2.66ms
+[2018.01.01-21.33.39:350][545]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/Measure7E241DDD4DB7036537F92EB5B6EB052F.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Measure.uasset'
+[2018.01.01-21.33.39:355][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Structs/Measure.uasset
+[2018.01.01-21.33.39:585][545]LogSavePackage: Save=212.14ms
+[2018.01.01-21.33.39:585][545]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_MeasureSpawner96C533EE492F31872E469B85CC766BDF.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_MeasureSpawner.uasset'
+[2018.01.01-21.33.39:590][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_MeasureSpawner.uasset
+[2018.01.01-21.33.39:595][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Note" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Note.uasset" SILENT=true
+[2018.01.01-21.33.39:873][545]LogSavePackage: Save=265.29ms
+[2018.01.01-21.33.39:873][545]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_Note1091F4524F9DF792B42CFB8F9D59D610.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Note.uasset'
+[2018.01.01-21.33.39:878][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Note.uasset
+[2018.01.01-21.33.39:883][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Measure" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Measure.uasset" SILENT=true
+[2018.01.01-21.33.40:584][545]LogSavePackage: Save=687.54ms
+[2018.01.01-21.33.40:584][545]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_Measure13A83899416D290F4922DA9C8FCC0C87.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Measure.uasset'
+[2018.01.01-21.33.40:590][545]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Measure.uasset
+[2018.01.01-21.33.42:527][660]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.33.42:798][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.01-21.33.42:873][660]LogPlayLevel: [PlayLevel] Compiling BP_Note before play...
+[2018.01.01-21.33.42:919][660]LogBlueprint: Error: [Compiler BP_Note] In use pin  Octave  no longer exists on node  Break Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.33.42:931][660]LogBlueprint: Error: [Compiler BP_Note] Failed to find a struct member for  Octave
+[2018.01.01-21.33.42:943][660]LogBlueprint: Warning: [Compiler BP_Note] [2907.91] Compile of BP_Note failed. 2 Fatal Issue(s) 0 Warning(s) [in 82 ms] (/Game/Blueprints/BP_Note.BP_Note)
+[2018.01.01-21.33.43:075][660]LogPlayLevel: [PlayLevel] Compiling BP_FileReader before play...
+[2018.01.01-21.33.43:118][660]LogPlayLevel: [PlayLevel]   Compiling BP_Measure as a dependent...
+[2018.01.01-21.33.43:237][660]LogPlayLevel: [PlayLevel]   Compiling BP_MeasureSpawner as a dependent...
+[2018.01.01-21.33.43:292][660]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.33.43:292][660]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.33.43:331][660]LogBlueprint: Error: [Compiler BP_Measure] The type of  Variable  is undetermined.  Connect something to  SpawnActor BP Note  to imply a specific type.
+[2018.01.01-21.33.43:331][660]LogBlueprint: Error: [Compiler BP_Measure] The type of  Variable  is undetermined.  Connect something to  SpawnActor BP Note  to imply a specific type.
+[2018.01.01-21.33.43:331][660]LogBlueprint: Error: [Compiler BP_Measure] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Note  to imply a specific type.
+[2018.01.01-21.33.43:331][660]LogBlueprint: Error: [Compiler BP_Measure] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Note  to imply a specific type.
+[2018.01.01-21.33.43:335][660]LogBlueprint: Error: [Compiler BP_MeasureSpawner] In use pin  Measure Bass  no longer exists on node  SpawnActor BP Measure . Please refresh node or break links to remove pin.
+[2018.01.01-21.33.43:336][660]LogBlueprint: Error: [Compiler BP_MeasureSpawner] In use pin  Measure Treble  no longer exists on node  SpawnActor BP Measure . Please refresh node or break links to remove pin.
+[2018.01.01-21.33.43:346][660]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.33.43:346][660]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.33.43:375][660]LogBlueprint: Warning: [Compiler BP_FileReader] [2908.34] Compile of BP_FileReader failed. 4 Fatal Issue(s) 0 Warning(s) [in 303 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.33.43:375][660]LogBlueprint: Warning: [Compiler BP_Measure] [2908.34] Compile of BP_Measure failed. 4 Fatal Issue(s) 0 Warning(s) [in 303 ms] (/Game/Blueprints/BP_Measure.BP_Measure)
+[2018.01.01-21.33.43:376][660]LogBlueprint: Warning: [Compiler BP_MeasureSpawner] [2908.34] Compile of BP_MeasureSpawner failed. 2 Fatal Issue(s) 0 Warning(s) [in 303 ms] (/Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner)
+[2018.01.01-21.33.43:516][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 718 ms (4 blueprints)
+[2018.01.01-21.33.43:516][660]BlueprintLog: Blueprint BP_Note failed to compile
+[2018.01.01-21.33.43:516][660]BlueprintLog: Blueprint BP_FileReader failed to compile
+[2018.01.01-21.33.43:516][660]BlueprintLog: Blueprint BP_Measure failed to compile
+[2018.01.01-21.33.43:516][660]BlueprintLog: Blueprint BP_MeasureSpawner failed to compile
+[2018.01.01-21.33.57:702][355]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.33.57:789][355]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.33.57:789][355]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.33.57:801][355]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.33.57:801][355]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.33.57:802][355]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.33.57:802][355]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.33.57:917][355]LogBlueprint: Warning: [Compiler BP_FileReader] [2922.88] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 214 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.35.09:149][595]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.35.09:248][595]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.35.09:248][595]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.35.09:260][595]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.35.09:260][595]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.35.09:261][595]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.35.09:261][595]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.35.09:386][595]LogBlueprint: Warning: [Compiler BP_FileReader] [2994.35] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 235 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.35.30:438][846]LogEditorTransaction: Undo Move Nodes
+[2018.01.01-21.35.31:969][935]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.01-21.35.34:929][108]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Blueprints/BP_FileReader.BP_FileReader:ConstructNoteFromRest_alt.K2Node_CallFunction_1304 or K2Node_CallFunction /Game/Blueprints/BP_FileReader.BP_FileReader:ConstructNoteFromRest_alt.K2Node_CallFunction_1304
+[2018.01.01-21.35.49:777][995]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.35.49:881][995]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.35.49:881][995]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.35.49:892][995]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.35.49:892][995]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.35.49:893][995]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.35.49:893][995]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.35.50:015][995]LogBlueprint: Warning: [Compiler BP_FileReader] [3034.98] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 237 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.35.56:372][374]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.35.56:474][374]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.35.56:474][374]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.35.56:485][374]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.35.56:485][374]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.35.56:486][374]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.35.56:486][374]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.35.56:601][374]LogBlueprint: Warning: [Compiler BP_FileReader] [3041.57] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 229 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.36.07:581][ 28]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.36.07:683][ 28]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.07:683][ 28]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.07:695][ 28]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.07:695][ 28]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.07:696][ 28]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.07:696][ 28]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.07:817][ 28]LogBlueprint: Warning: [Compiler BP_FileReader] [3052.78] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 236 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.36.18:224][646]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.36.18:326][646]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.18:326][646]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.18:338][646]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.18:338][646]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.18:339][646]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.18:340][646]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.18:459][646]LogBlueprint: Warning: [Compiler BP_FileReader] [3063.43] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 234 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.36.41:346][  7]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.36.41:456][  7]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.41:456][  7]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.41:467][  7]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.41:468][  7]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.41:469][  7]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.41:469][  7]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.41:591][  7]LogBlueprint: Warning: [Compiler BP_FileReader] [3086.56] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 244 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.36.44:582][182]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.36.44:692][182]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.44:692][182]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.36.44:703][182]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.44:703][182]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.36.44:704][182]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.44:704][182]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.36.44:825][182]LogBlueprint: Warning: [Compiler BP_FileReader] [3089.79] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 243 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.39.24:796][690]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.39.24:910][690]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Treble  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.39.24:910][690]LogBlueprint: Error: [Compiler BP_FileReader] In use pin  Measures Bass  no longer exists on node  SpawnActor BP Measure Spawner . Please refresh node or break links to remove pin.
+[2018.01.01-21.39.24:925][690]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.39.24:925][690]LogBlueprint: Error: [Compiler BP_FileReader] The type of  Value  is undetermined.  Connect something to  SpawnActor BP Measure Spawner  to imply a specific type.
+[2018.01.01-21.39.24:927][690]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.39.24:927][690]LogBlueprint: Error: [Compiler BP_FileReader] The current value of the ' Value ' pin is invalid: Array inputs (like 'Value') must have an input wired into them (try connecting a MakeArray node).
+[2018.01.01-21.39.25:065][690]LogBlueprint: Warning: [Compiler BP_FileReader] [3250.03] Compile of BP_FileReader failed. 6 Fatal Issue(s) 0 Warning(s) [in 268 ms] (/Game/Blueprints/BP_FileReader.BP_FileReader)
+[2018.01.01-21.39.39:662][559]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.39.42:766][728]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.39.42:786][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.39.56:327][352]BlueprintLog: New page: Compile BP_Measure
+[2018.01.01-21.39.56:576][352]LogBlueprint: Error: [Compiler BP_Measure] In use pin  Note  no longer exists on node  SpawnActor BP Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.39.56:576][352]LogBlueprint: Error: [Compiler BP_Measure] In use pin  Note  no longer exists on node  SpawnActor BP Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.39.56:739][352]LogBlueprint: Warning: [Compiler BP_Measure] [3281.71] Compile of BP_Measure failed. 2 Fatal Issue(s) 0 Warning(s) [in 411 ms] (/Game/Blueprints/BP_Measure.BP_Measure)
+[2018.01.01-21.40.12:927][303]BlueprintLog: New page: Compile BP_Measure
+[2018.01.01-21.40.13:189][303]LogBlueprint: Error: [Compiler BP_Measure] In use pin  Note  no longer exists on node  SpawnActor BP Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.40.13:350][303]LogBlueprint: Warning: [Compiler BP_Measure] [3298.32] Compile of BP_Measure failed. 1 Fatal Issue(s) 0 Warning(s) [in 422 ms] (/Game/Blueprints/BP_Measure.BP_Measure)
+[2018.01.01-21.40.19:030][626]BlueprintLog: New page: Compile BP_Measure
+[2018.01.01-21.40.27:002][ 49]BlueprintLog: New page: Compile BP_Note
+[2018.01.01-21.40.27:134][ 49]LogBlueprint: Error: [Compiler BP_Note] In use pin  Octave  no longer exists on node  Break Note . Please refresh node or break links to remove pin.
+[2018.01.01-21.40.27:163][ 49]LogBlueprint: Error: [Compiler BP_Note] Failed to find a struct member for  Octave
+[2018.01.01-21.40.27:313][ 49]LogBlueprint: Warning: [Compiler BP_Note] [3312.28] Compile of BP_Note failed. 2 Fatal Issue(s) 0 Warning(s) [in 310 ms] (/Game/Blueprints/BP_Note.BP_Note)
+[2018.01.01-21.40.32:380][348]BlueprintLog: New page: Compile BP_Note
+[2018.01.01-21.40.38:952][703]BlueprintLog: New page: Compile BP_MeasureSpawner
+[2018.01.01-21.40.41:279][825]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.40.41:296][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.40.41:343][825]PIE: New page: SIE session: test (Jan 1, 2018, 11:40:41 AM)
+[2018.01.01-21.40.41:343][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.40.41:371][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027562s)
+[2018.01.01-21.40.41:372][825]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.40.41:372][825]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2018.01.01-21.40.41:372][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.029346s)
+[2018.01.01-21.40.41:415][825]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.40.41:506][825]LogInit: FAudioDevice initialized.
+[2018.01.01-21.40.41:566][825]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.40.41:613][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.40.41
+[2018.01.01-21.40.41:614][825]LogWorld: Bringing up level for play took: 0.000995
+[2018.01.01-21.40.41:728][825]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2018.01.01-21.40.41:770][825]LogScript: Warning: Attempted to access index 0 from array measures_treble of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:ExecuteUbergraph_BP_MeasureSpawner:0039
+[2018.01.01-21.40.41:770][825]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_treble of length 0! from function: 'ExecuteUbergraph_BP_MeasureSpawner' from node: Update Time Signatures in graph: EventGraph in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_treble of length 0!
+[2018.01.01-21.40.41:794][825]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_test -0.015
+[2018.01.01-21.42.31:979][386]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.42.33:081][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/test" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.01-21.42.33:141][416]LogSavePackage: Save=26.25ms
+[2018.01.01-21.42.33:141][416]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/testC3173440445B9D7B67A1F4976FD365F5.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap'
+[2018.01.01-21.42.33:146][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap
+[2018.01.01-21.42.33:164][416]LogFileHelpers: Saving map 'test' took 0.174
+[2018.01.01-21.42.33:168][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.42.33:568][416]LogSavePackage: Save=386.21ms
+[2018.01.01-21.42.33:568][416]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReader535EA21E48C4F26089F11A8A4AE4844B.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.42.33:572][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.42.33:597][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Note" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Note.uasset" SILENT=true
+[2018.01.01-21.42.33:898][416]LogSavePackage: Save=287.64ms
+[2018.01.01-21.42.33:898][416]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_Note2021B6464D6DF5D9B163DD895D599074.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Note.uasset'
+[2018.01.01-21.42.33:903][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Note.uasset
+[2018.01.01-21.42.33:928][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Measure" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Measure.uasset" SILENT=true
+[2018.01.01-21.42.34:657][416]LogSavePackage: Save=712.30ms
+[2018.01.01-21.42.34:657][416]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_MeasureD1F901934B5B9E2FF07C1B88338B1ADD.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Measure.uasset'
+[2018.01.01-21.42.34:661][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_Measure.uasset
+[2018.01.01-21.43.58:562][667]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.44.15:098][630]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.44.15:582][632]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.44.16:671][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/test" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.01-21.44.16:729][662]LogSavePackage: Save=25.60ms
+[2018.01.01-21.44.16:729][662]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/testBC65DE5D4C500C2F19030CA7E51C8231.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap'
+[2018.01.01-21.44.16:733][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Maps/test.umap
+[2018.01.01-21.44.16:752][662]LogFileHelpers: Saving map 'test' took 0.168
+[2018.01.01-21.44.16:755][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.44.17:153][662]LogSavePackage: Save=386.76ms
+[2018.01.01-21.44.17:153][662]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReaderBACF519F4E0C6DA0AFA7769919F1A87C.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.44.17:158][662]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.44.18:486][741]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.44.18:513][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.44.18:513][741]PIE: New page: SIE session: test (Jan 1, 2018, 11:44:18 AM)
+[2018.01.01-21.44.18:513][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.44.18:518][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005098s)
+[2018.01.01-21.44.18:519][741]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.44.18:519][741]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2018.01.01-21.44.18:519][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.006564s)
+[2018.01.01-21.44.18:540][741]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.44.18:622][741]LogInit: FAudioDevice initialized.
+[2018.01.01-21.44.18:663][741]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.44.18:666][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.44.18
+[2018.01.01-21.44.18:667][741]LogWorld: Bringing up level for play took: 0.001748
+[2018.01.01-21.44.18:675][741]LogScript: Warning: Attempted to access index 0 from array measures_treble of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:ExecuteUbergraph_BP_MeasureSpawner:0039
+[2018.01.01-21.44.18:675][741]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_treble of length 0! from function: 'ExecuteUbergraph_BP_MeasureSpawner' from node: Update Time Signatures in graph: EventGraph in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_treble of length 0!
+[2018.01.01-21.44.18:676][741]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_test 0.867
+[2018.01.01-21.45.09:016][735]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.45.10:852][818]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.45.10:880][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.45.10:880][818]PIE: New page: SIE session: test (Jan 1, 2018, 11:45:10 AM)
+[2018.01.01-21.45.10:881][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.45.10:885][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004638s)
+[2018.01.01-21.45.10:886][818]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.45.10:886][818]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2018.01.01-21.45.10:887][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.006092s)
+[2018.01.01-21.45.10:909][818]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.45.10:977][818]LogInit: FAudioDevice initialized.
+[2018.01.01-21.45.11:022][818]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.45.11:026][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.45.11
+[2018.01.01-21.45.11:027][818]LogWorld: Bringing up level for play took: 0.001864
+[2018.01.01-21.45.11:035][818]LogScript: Warning: Attempted to access index 0 from array measures_treble of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:ExecuteUbergraph_BP_MeasureSpawner:0039
+[2018.01.01-21.45.11:035][818]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_treble of length 0! from function: 'ExecuteUbergraph_BP_MeasureSpawner' from node: Update Time Signatures in graph: EventGraph in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_treble of length 0!
+[2018.01.01-21.45.11:036][818]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_test -0.773
+[2018.01.01-21.45.21:240][414]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.46.34:857][785]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.46.35:659][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.46.36:081][804]LogSavePackage: Save=395.28ms
+[2018.01.01-21.46.36:081][804]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReaderE96C9FCF4A241558A0AD919F637264AB.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.46.36:086][804]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.46.37:714][901]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.46.37:747][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.46.37:747][901]PIE: New page: SIE session: test (Jan 1, 2018, 11:46:37 AM)
+[2018.01.01-21.46.37:747][901]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.46.37:752][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004968s)
+[2018.01.01-21.46.37:753][901]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.46.37:753][901]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2018.01.01-21.46.37:753][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.006486s)
+[2018.01.01-21.46.37:775][901]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.46.37:843][901]LogInit: FAudioDevice initialized.
+[2018.01.01-21.46.37:874][901]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.46.37:875][901]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.46.37
+[2018.01.01-21.46.37:876][901]LogWorld: Bringing up level for play took: 0.000585
+[2018.01.01-21.46.37:906][901]LogBlueprintUserMessages: [FileReader_80] [#][MEASURE]1[m]3/4[m]NA[m]none[m][EXP]There is[m][NOTE]A3[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]1[m]none[m][REST]half[r]2.00[r]0[r]0.00[r]1[REST]eighth[r]0.50[r]0[r]2.00[r]1[MEASURE]2[m]NA[m]NA[m]none[m][EXP].. a house[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]2[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]2[NOTE]B4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]2[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]2[m]none[MEASURE]3[m]NA[m]NA[m]none[m][EXP]in New Or..[m][NOTE]C5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]3[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]3[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]3[m][CHORD][PITCH]C3[PITCH]E3[PITCH]G3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]3[m]none[MEASURE]4[m]NA[m]NA[m]none[m]none[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]4[NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]1.00[n]4[m][CHORD][PITCH]D3[PITCH]F#3[PITCH]A3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]4[m]none[MEASURE]5[m]NA[m]NA[m]none[m][EXP]leans[EXP]They[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]5[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]5[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]5[m]none[m]none[MEASURE]6[m]NA[m]NA[m]none[m][EXP]call[EXP]The Ri.s.. - ..s.. ..ing Sun[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]6[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]6[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]6[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]6[m]none[MEASURE]7[m]NA[m]NA[m]none[m]none[m][NOTE]G5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]7[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]7[NOTE]D5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]7[m]none[m]none[MEASURE]8[m]NA[m]NA[m]none[m]none[m][NOTE]E5[n]half[n]3.00[n]1[n]none[n]none[n]none[n]start[n]0.00[n]8[m][CHORD][PITCH]E3[PITCH]G3[PITCH]B3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]8[m]none[MEASURE]9[m]NA[m]NA[m]none[m][EXP]..and it's been[m][NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]9[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]9[m][CHORD][PITCH]E3[PITCH]G3[PITCH]B3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]9[m][REST]quarter[r]1.00[r]0[r]1.00[r]9[REST]eighth[r]0.50[r]0[r]2.00[r]9[MEASURE]10[m]NA[m]NA[m]none[m][EXP]the[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]10[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]10[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]10[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]10[m]none[MEASURE]11[m]NA[m]NA[m]none[m][EXP]ruin[EXP]of ma.. ..ny[m][NOTE]G5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]11[NOTE]G5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]11[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]11[m]none[m]none[MEASURE]12[m]NA[m]NA[m]none[m]none[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]12[NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]1.00[n]12[m][CHORD][PITCH]D3[PITCH]F#3[PITCH]A3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]12[m]none[MEASURE]13[m]NA[m]NA[m]none[m][EXP]a[EXP]poor boy,[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]13[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]13[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]13[m]none[m]none[MEASURE]14[m]NA[m]NA[m]none[m]none[m][NOTE]A4[n]half[n]2.00[n]0[n][ART]accent[n]none[n]none[n]none[n]0.00[n]14[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]14[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]14[m]none[m]none[MEASURE]15[m]NA[m]NA[m][DYN]p[d]0.35[m]none[m][NOTE]G#4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]15[NOTE]E4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]start[n]1.00[n]15[NOTE]E4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]15[NOTE]G4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]15[m]none[m]none[MEASURE]16[m]NA[m]NA[m]none[m]none[m][NOTE]A4[n]half[n]3.00[n]1[n]none[n]none[n]none[n]start[n]0.00[n]16[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]16[m]none[MEASURE]17[m]NA[m]NA[m]none[m][EXP]My rn0t..[m][NOTE]A4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]17[NOTE]E4[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]17[m][CHORD][PITCH]E3[PITCH]G#3[PITCH]B3[PITCH]D4[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]17[m][REST]quarter[r]1.00[r]0[r]1.00[r]17[REST]eighth[r]0.50[r]0[r]2.00[r]17[MEASURE]18[m]NA[m]NA[m]none[m]none[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]18[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]18[NOTE]B4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]18[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]18[m]none[MEASURE]19[m]NA[m]NA[m]none[m][EXP]3 tai...[m][NOTE]C5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]19[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]19[NOTE]D5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]19[NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]3.00[n]19[m]none[m]none[MEASURE]20[m]NA[m]NA[m]none[m][EXP]..0I'..[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]20[NOTE]A4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]start[n]1.00[n]20[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]20[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]start[n]2.50[n]20[m][CHORD][PITCH]D3[PITCH]F#3[PITCH]A3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]20[m]none[MEASURE]21[m]NA[m]NA[m]none[m][EXP]She seW..[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]21[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]21[m]none[m][REST]eighth[r]0.50[r]0[r]2.00[r]21[MEASURE]22[m]NA[m]NA[m]none[m]none[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]22[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]22[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]22[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]22[m]none[MEASURE]23[m]NA[m]NA[m]none[m][EXP]b1.. ..ue jeans[m][NOTE]G5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]23[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]23[NOTE]D5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]23[m]none[m]none[MEASURE]24[m]NA[m]NA[m][DYN]p[d]0.35[m]none[m][NOTE]E5[n]half[n]3.00[n]1[n]none[n]none[n]none[n]start[n]0.00[n]24[m]none[m]none[MEASURE]25[m]NA[m]NA[m][DYN]p[d]0.35[m]none[m][NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]25[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]25[m]none[m][REST]quarter[r]1.00[r]0[r]1.00[r]25[REST]eighth[r]0.50[r]0[r]2.00[r]25[MEASURE]26[m]NA[m]NA[m]none[m][EXP]fa..[EXP].. ther was[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]26[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]26[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]26[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]26[m]none[MEASURE]27[m]NA[m]NA[m]none[m][EXP]a g1am.. .. ..b1ing[m][NOTE]G5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]27[NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]1.00[n]27[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]27[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]27[m]none[m]none[MEASURE]28[m]NA[m]NA[m]none[m][EXP]man ..[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]28[NOTE]A4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]start[n]1.00[n]28[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]28[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]start[n]2.50[n]28[m]none[m]none[MEASURE]29[m]NA[m]NA[m]none[m][EXP]Down[m][NOTE]C5[n]quarter[n]1.50[n]1[n]none[n]none[n]none[n]stop[n]0.00[n]29[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]29[m]none[m][REST]eighth[r]0.50[r]0[r]1.50[r]29[REST]eighth[r]0.50[r]0[r]2.00[r]29[MEASURE]30[m]NA[m]NA[m]none[m][EXP]in[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]30[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]30[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]30[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]30[m]none[MEASURE]31[m]NA[m]NA[m]none[m]none[m][NOTE]G#4[n]quarter[n]0.67[n]0[n]none[n]none[n]none[n]none[n]0.00[n]31[NOTE]E4[n]quarter[n]0.67[n]0[n]none[n]none[n]none[n]start[n]0.67[n]31[NOTE]E4[n]eighth[n]0.33[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]1.33[n]31[NOTE]B4[n]eighth[n]0.33[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]1.67[n]31[m]none[m][REST]quarter[r]0.67[r]0[r]0.00[r]31[REST]quarter[r]1.00[r]0[r]2.00[r]31[MEASURE]32[m]NA[m]NA[m]none[m][EXP]leans.[m][NOTE]A4[n]half[n]3.00[n]1[n]none[n]none[n]none[n]none[n]0.00[n]32[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]32[m]none
+[2018.01.01-21.46.37:908][901]LogScript: Warning: Attempted to access index 0 from array measures_treble of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:ExecuteUbergraph_BP_MeasureSpawner:0039
+[2018.01.01-21.46.37:909][901]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_treble of length 0! from function: 'ExecuteUbergraph_BP_MeasureSpawner' from node: Update Time Signatures in graph: EventGraph in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_treble of length 0!
+[2018.01.01-21.46.37:909][901]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_test 0.1
+[2018.01.01-21.47.57:075][462]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.47.57:888][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.47.58:310][482]LogSavePackage: Save=399.64ms
+[2018.01.01-21.47.58:310][482]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReaderAACA2EDE44DD4C7D85A720AF1670A6D1.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.47.58:314][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.47.59:432][548]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.47.59:463][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.47.59:463][548]PIE: New page: SIE session: test (Jan 1, 2018, 11:47:59 AM)
+[2018.01.01-21.47.59:463][548]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.47.59:468][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004752s)
+[2018.01.01-21.47.59:469][548]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.47.59:469][548]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2018.01.01-21.47.59:469][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.006373s)
+[2018.01.01-21.47.59:491][548]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.47.59:568][548]LogInit: FAudioDevice initialized.
+[2018.01.01-21.47.59:608][548]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.47.59:610][548]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.47.59
+[2018.01.01-21.47.59:611][548]LogWorld: Bringing up level for play took: 0.001044
+[2018.01.01-21.47.59:613][548]LogBlueprintUserMessages: [FileReader_80] 1[m]3/4[m]NA[m]none[m][EXP]There is[m][NOTE]A3[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]1[m]none[m][REST]half[r]2.00[r]0[r]0.00[r]1[REST]eighth[r]0.50[r]0[r]2.00[r]1
+[2018.01.01-21.47.59:615][548]LogBlueprintUserMessages: [FileReader_80] 2[m]NA[m]NA[m]none[m][EXP].. a house[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]2[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]2[NOTE]B4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]2[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]2[m]none
+[2018.01.01-21.47.59:616][548]LogBlueprintUserMessages: [FileReader_80] 3[m]NA[m]NA[m]none[m][EXP]in New Or..[m][NOTE]C5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]3[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]3[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]3[m][CHORD][PITCH]C3[PITCH]E3[PITCH]G3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]3[m]none
+[2018.01.01-21.47.59:617][548]LogBlueprintUserMessages: [FileReader_80] 4[m]NA[m]NA[m]none[m]none[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]4[NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]1.00[n]4[m][CHORD][PITCH]D3[PITCH]F#3[PITCH]A3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]4[m]none
+[2018.01.01-21.47.59:619][548]LogBlueprintUserMessages: [FileReader_80] 5[m]NA[m]NA[m]none[m][EXP]leans[EXP]They[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]5[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]5[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]5[m]none[m]none
+[2018.01.01-21.47.59:621][548]LogBlueprintUserMessages: [FileReader_80] 6[m]NA[m]NA[m]none[m][EXP]call[EXP]The Ri.s.. - ..s.. ..ing Sun[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]6[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]6[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]6[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]6[m]none
+[2018.01.01-21.47.59:622][548]LogBlueprintUserMessages: [FileReader_80] 7[m]NA[m]NA[m]none[m]none[m][NOTE]G5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]7[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]7[NOTE]D5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]7[m]none[m]none
+[2018.01.01-21.47.59:623][548]LogBlueprintUserMessages: [FileReader_80] 8[m]NA[m]NA[m]none[m]none[m][NOTE]E5[n]half[n]3.00[n]1[n]none[n]none[n]none[n]start[n]0.00[n]8[m][CHORD][PITCH]E3[PITCH]G3[PITCH]B3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]8[m]none
+[2018.01.01-21.47.59:624][548]LogBlueprintUserMessages: [FileReader_80] 9[m]NA[m]NA[m]none[m][EXP]..and it's been[m][NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]9[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]9[m][CHORD][PITCH]E3[PITCH]G3[PITCH]B3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]9[m][REST]quarter[r]1.00[r]0[r]1.00[r]9[REST]eighth[r]0.50[r]0[r]2.00[r]9
+[2018.01.01-21.47.59:626][548]LogBlueprintUserMessages: [FileReader_80] 10[m]NA[m]NA[m]none[m][EXP]the[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]10[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]10[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]10[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]10[m]none
+[2018.01.01-21.47.59:627][548]LogBlueprintUserMessages: [FileReader_80] 11[m]NA[m]NA[m]none[m][EXP]ruin[EXP]of ma.. ..ny[m][NOTE]G5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]11[NOTE]G5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]11[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]11[m]none[m]none
+[2018.01.01-21.47.59:628][548]LogBlueprintUserMessages: [FileReader_80] 12[m]NA[m]NA[m]none[m]none[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]12[NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]1.00[n]12[m][CHORD][PITCH]D3[PITCH]F#3[PITCH]A3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]12[m]none
+[2018.01.01-21.47.59:629][548]LogBlueprintUserMessages: [FileReader_80] 13[m]NA[m]NA[m]none[m][EXP]a[EXP]poor boy,[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]13[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]13[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]13[m]none[m]none
+[2018.01.01-21.47.59:631][548]LogBlueprintUserMessages: [FileReader_80] 14[m]NA[m]NA[m]none[m]none[m][NOTE]A4[n]half[n]2.00[n]0[n][ART]accent[n]none[n]none[n]none[n]0.00[n]14[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]14[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]14[m]none[m]none
+[2018.01.01-21.47.59:632][548]LogBlueprintUserMessages: [FileReader_80] 15[m]NA[m]NA[m][DYN]p[d]0.35[m]none[m][NOTE]G#4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]15[NOTE]E4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]start[n]1.00[n]15[NOTE]E4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]15[NOTE]G4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]15[m]none[m]none
+[2018.01.01-21.47.59:633][548]LogBlueprintUserMessages: [FileReader_80] 16[m]NA[m]NA[m]none[m]none[m][NOTE]A4[n]half[n]3.00[n]1[n]none[n]none[n]none[n]start[n]0.00[n]16[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]16[m]none
+[2018.01.01-21.47.59:635][548]LogBlueprintUserMessages: [FileReader_80] 17[m]NA[m]NA[m]none[m][EXP]My rn0t..[m][NOTE]A4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]17[NOTE]E4[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]17[m][CHORD][PITCH]E3[PITCH]G#3[PITCH]B3[PITCH]D4[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]17[m][REST]quarter[r]1.00[r]0[r]1.00[r]17[REST]eighth[r]0.50[r]0[r]2.00[r]17
+[2018.01.01-21.47.59:636][548]LogBlueprintUserMessages: [FileReader_80] 18[m]NA[m]NA[m]none[m]none[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]18[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]18[NOTE]B4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]18[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]18[m]none
+[2018.01.01-21.47.59:637][548]LogBlueprintUserMessages: [FileReader_80] 19[m]NA[m]NA[m]none[m][EXP]3 tai...[m][NOTE]C5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]19[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]19[NOTE]D5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]19[NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]3.00[n]19[m]none[m]none
+[2018.01.01-21.47.59:638][548]LogBlueprintUserMessages: [FileReader_80] 20[m]NA[m]NA[m]none[m][EXP]..0I'..[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]20[NOTE]A4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]start[n]1.00[n]20[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]20[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]start[n]2.50[n]20[m][CHORD][PITCH]D3[PITCH]F#3[PITCH]A3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]20[m]none
+[2018.01.01-21.47.59:639][548]LogBlueprintUserMessages: [FileReader_80] 21[m]NA[m]NA[m]none[m][EXP]She seW..[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]21[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]21[m]none[m][REST]eighth[r]0.50[r]0[r]2.00[r]21
+[2018.01.01-21.47.59:640][548]LogBlueprintUserMessages: [FileReader_80] 22[m]NA[m]NA[m]none[m]none[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]22[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]22[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]22[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]22[m]none
+[2018.01.01-21.47.59:640][548]LogBlueprintUserMessages: [FileReader_80] 23[m]NA[m]NA[m]none[m][EXP]b1.. ..ue jeans[m][NOTE]G5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]23[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]23[NOTE]D5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]23[m]none[m]none
+[2018.01.01-21.47.59:641][548]LogBlueprintUserMessages: [FileReader_80] 24[m]NA[m]NA[m][DYN]p[d]0.35[m]none[m][NOTE]E5[n]half[n]3.00[n]1[n]none[n]none[n]none[n]start[n]0.00[n]24[m]none[m]none
+[2018.01.01-21.47.59:642][548]LogBlueprintUserMessages: [FileReader_80] 25[m]NA[m]NA[m][DYN]p[d]0.35[m]none[m][NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]stop[n]0.00[n]25[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]25[m]none[m][REST]quarter[r]1.00[r]0[r]1.00[r]25[REST]eighth[r]0.50[r]0[r]2.00[r]25
+[2018.01.01-21.47.59:642][548]LogBlueprintUserMessages: [FileReader_80] 26[m]NA[m]NA[m]none[m][EXP]fa..[EXP].. ther was[m][NOTE]A5[n]half[n]2.00[n]0[n]none[n]none[n]none[n]start[n]0.00[n]26[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]26[NOTE]A5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]26[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]26[m]none
+[2018.01.01-21.47.59:643][548]LogBlueprintUserMessages: [FileReader_80] 27[m]NA[m]NA[m]none[m][EXP]a g1am.. .. ..b1ing[m][NOTE]G5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]27[NOTE]E5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]1.00[n]27[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]27[NOTE]E5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]27[m]none[m]none
+[2018.01.01-21.47.59:644][548]LogBlueprintUserMessages: [FileReader_80] 28[m]NA[m]NA[m]none[m][EXP]man ..[m][NOTE]D5[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]28[NOTE]A4[n]quarter[n]1.00[n]0[n]none[n]none[n]none[n]start[n]1.00[n]28[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]2.00[n]28[NOTE]C5[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]start[n]2.50[n]28[m]none[m]none
+[2018.01.01-21.47.59:644][548]LogBlueprintUserMessages: [FileReader_80] 29[m]NA[m]NA[m]none[m][EXP]Down[m][NOTE]C5[n]quarter[n]1.50[n]1[n]none[n]none[n]none[n]stop[n]0.00[n]29[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n]none[n]none[n]2.50[n]29[m]none[m][REST]eighth[r]0.50[r]0[r]1.50[r]29[REST]eighth[r]0.50[r]0[r]2.00[r]29
+[2018.01.01-21.47.59:645][548]LogBlueprintUserMessages: [FileReader_80] 30[m]NA[m]NA[m]none[m][EXP]in[m][NOTE]A4[n]half[n]2.00[n]0[n]none[n]none[n]none[n]none[n]0.00[n]30[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]start[n]none[n]2.00[n]30[NOTE]A4[n]eighth[n]0.50[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]2.50[n]30[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]30[m]none
+[2018.01.01-21.47.59:645][548]LogBlueprintUserMessages: [FileReader_80] 31[m]NA[m]NA[m]none[m]none[m][NOTE]G#4[n]quarter[n]0.67[n]0[n]none[n]none[n]none[n]none[n]0.00[n]31[NOTE]E4[n]quarter[n]0.67[n]0[n]none[n]none[n]none[n]start[n]0.67[n]31[NOTE]E4[n]eighth[n]0.33[n]0[n]none[n]none[n][BEAM]1[b]start[n]stop[n]1.33[n]31[NOTE]B4[n]eighth[n]0.33[n]0[n]none[n]none[n][BEAM]1[b]stop[n]none[n]1.67[n]31[m]none[m][REST]quarter[r]0.67[r]0[r]0.00[r]31[REST]quarter[r]1.00[r]0[r]2.00[r]31
+[2018.01.01-21.47.59:646][548]LogBlueprintUserMessages: [FileReader_80] 32[m]NA[m]NA[m]none[m][EXP]leans.[m][NOTE]A4[n]half[n]3.00[n]1[n]none[n]none[n]none[n]none[n]0.00[n]32[m][CHORD][PITCH]A2[PITCH]C3[PITCH]E3[c]zero[c]0.00[c]0[c]none[c]none[c]none[c]none[c]0.00[c]32[m]none
+[2018.01.01-21.47.59:648][548]LogScript: Warning: Attempted to access index 0 from array measures_treble of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:ExecuteUbergraph_BP_MeasureSpawner:0039
+[2018.01.01-21.47.59:649][548]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_treble of length 0! from function: 'ExecuteUbergraph_BP_MeasureSpawner' from node: Update Time Signatures in graph: EventGraph in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_treble of length 0!
+[2018.01.01-21.47.59:649][548]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_test -0.16
+[2018.01.01-21.48.18:662][637]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.48.20:737][729]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.48.20:767][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.48.20:767][729]PIE: New page: SIE session: test (Jan 1, 2018, 11:48:20 AM)
+[2018.01.01-21.48.20:767][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.48.20:773][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005553s)
+[2018.01.01-21.48.20:774][729]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.48.20:774][729]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2018.01.01-21.48.20:774][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.006927s)
+[2018.01.01-21.48.20:796][729]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.48.20:877][729]LogInit: FAudioDevice initialized.
+[2018.01.01-21.48.20:908][729]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.48.20:909][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.48.20
+[2018.01.01-21.48.20:910][729]LogWorld: Bringing up level for play took: 0.000699
+[2018.01.01-21.48.20:913][729]LogScript: Warning: Attempted to access index 0 from array measures_treble of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:ExecuteUbergraph_BP_MeasureSpawner:0039
+[2018.01.01-21.48.20:913][729]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_treble of length 0! from function: 'ExecuteUbergraph_BP_MeasureSpawner' from node: Update Time Signatures in graph: EventGraph in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_treble of length 0!
+[2018.01.01-21.48.20:913][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_test 1.104
+[2018.01.01-21.49.04:894][355]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.49.09:783][619]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.49.19:680][183]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.49.24:706][455]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.49.24:737][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.49.24:737][455]PIE: New page: SIE session: test (Jan 1, 2018, 11:49:24 AM)
+[2018.01.01-21.49.24:737][455]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.49.24:743][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005336s)
+[2018.01.01-21.49.24:744][455]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.49.24:744][455]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2018.01.01-21.49.24:744][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.006982s)
+[2018.01.01-21.49.24:767][455]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.49.24:836][455]LogInit: FAudioDevice initialized.
+[2018.01.01-21.49.24:871][455]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.49.24:872][455]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.49.24
+[2018.01.01-21.49.24:873][455]LogWorld: Bringing up level for play took: 0.000756
+[2018.01.01-21.49.24:875][455]LogScript: Warning: Attempted to access index 0 from array measures_treble of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:ExecuteUbergraph_BP_MeasureSpawner:0039
+[2018.01.01-21.49.24:876][455]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_treble of length 0! from function: 'ExecuteUbergraph_BP_MeasureSpawner' from node: Update Time Signatures in graph: EventGraph in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_treble of length 0!
+[2018.01.01-21.49.24:876][455]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_test 1.067
+[2018.01.01-21.50.35:296][652]BlueprintLog: New page: Compile BP_FileReader
+[2018.01.01-21.50.36:067][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FileReader" FILE="../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset" SILENT=true
+[2018.01.01-21.50.36:483][669]LogSavePackage: Save=394.70ms
+[2018.01.01-21.50.36:483][669]LogSavePackage: Moving '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Saved/BP_FileReader79CD0A0A4D5D1F1BF9318892567902CB.tmp' to '../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset'
+[2018.01.01-21.50.36:487][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Repositories/MyRepositories/GSAS_Research_Project/PianoPlayerVR/Content/Blueprints/BP_FileReader.uasset
+[2018.01.01-21.50.37:879][752]LogTemp: Repeating last play command: Simulate
+[2018.01.01-21.50.37:907][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.01-21.50.37:907][752]PIE: New page: SIE session: test (Jan 1, 2018, 11:50:37 AM)
+[2018.01.01-21.50.37:907][752]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_test
+[2018.01.01-21.50.37:912][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004967s)
+[2018.01.01-21.50.37:913][752]LogAIModule: Creating AISystem for world test
+[2018.01.01-21.50.37:914][752]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2018.01.01-21.50.37:914][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/test.test to /Game/Maps/UEDPIE_0_test.test (0.006497s)
+[2018.01.01-21.50.37:935][752]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.01-21.50.38:004][752]LogInit: FAudioDevice initialized.
+[2018.01.01-21.50.38:040][752]LogLoad: Game class is 'GameModeBase'
+[2018.01.01-21.50.38:041][752]LogWorld: Bringing World /Game/Maps/UEDPIE_0_test.test up for play (max tick rate 60) at 2018.01.01-16.50.38
+[2018.01.01-21.50.38:041][752]LogWorld: Bringing up level for play took: 0.000641
+[2018.01.01-21.50.38:069][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 1 (3/4):
+[2018.01.01-21.50.38:069][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, half, 2.0, 0
+[2018.01.01-21.50.38:069][752]LogBlueprintUserMessages: [FileReader_80] [REST]  2.0, eighth, 0.5, 0
+[2018.01.01-21.50.38:069][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A3, eighth, 0.5, 0, none, 0, none, none
+[2018.01.01-21.50.38:070][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 2 (NA):
+[2018.01.01-21.50.38:070][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:070][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:070][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:070][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, B4, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:071][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 3 (NA):
+[2018.01.01-21.50.38:071][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, C5, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:071][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:071][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, C5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:071][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, E5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:072][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 4 (NA):
+[2018.01.01-21.50.38:072][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, D5, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:073][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:073][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.0, A4, half, 2.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:074][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 5 (NA):
+[2018.01.01-21.50.38:074][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:074][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:074][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:075][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 6 (NA):
+[2018.01.01-21.50.38:075][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A5, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:075][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:075][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:075][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:076][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 7 (NA):
+[2018.01.01-21.50.38:076][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, G5, half, 2.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:076][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, E5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, none
+[2018.01.01-21.50.38:076][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, D5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:077][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 8 (NA):
+[2018.01.01-21.50.38:077][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, E5, half, 3.0, 1, none, 0, none, start
+[2018.01.01-21.50.38:077][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:079][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 9 (NA):
+[2018.01.01-21.50.38:079][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, E5, quarter, 1.0, 0, none, 0, none, stop
+[2018.01.01-21.50.38:079][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:079][752]LogBlueprintUserMessages: [FileReader_80] [REST]  1.0, quarter, 1.0, 0
+[2018.01.01-21.50.38:079][752]LogBlueprintUserMessages: [FileReader_80] [REST]  2.0, eighth, 0.5, 0
+[2018.01.01-21.50.38:079][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, none, none
+[2018.01.01-21.50.38:080][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 10 (NA):
+[2018.01.01-21.50.38:080][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A5, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:080][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:080][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:080][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:081][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 11 (NA):
+[2018.01.01-21.50.38:081][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, G5, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:081][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, G5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:081][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, E5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:082][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 12 (NA):
+[2018.01.01-21.50.38:082][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, D5, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:082][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:082][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.0, A4, half, 2.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:083][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 13 (NA):
+[2018.01.01-21.50.38:083][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:083][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:083][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:084][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 14 (NA):
+[2018.01.01-21.50.38:084][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 2.0, 0, [ART]accent, 0, none, none
+[2018.01.01-21.50.38:084][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, none
+[2018.01.01-21.50.38:084][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:085][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 15 (NA):
+[2018.01.01-21.50.38:085][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, G#4, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:085][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.0, E4, quarter, 1.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:086][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, E4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:086][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, G4, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:086][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 16 (NA):
+[2018.01.01-21.50.38:086][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 3.0, 1, none, 0, none, start
+[2018.01.01-21.50.38:087][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:088][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 17 (NA):
+[2018.01.01-21.50.38:088][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, quarter, 1.0, 0, none, 0, none, stop
+[2018.01.01-21.50.38:088][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:088][752]LogBlueprintUserMessages: [FileReader_80] [REST]  1.0, quarter, 1.0, 0
+[2018.01.01-21.50.38:088][752]LogBlueprintUserMessages: [FileReader_80] [REST]  2.0, eighth, 0.5, 0
+[2018.01.01-21.50.38:088][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, E4, eighth, 0.5, 0, none, 0, none, none
+[2018.01.01-21.50.38:089][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 18 (NA):
+[2018.01.01-21.50.38:089][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:089][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:089][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:089][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, B4, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:090][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 19 (NA):
+[2018.01.01-21.50.38:090][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, C5, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:090][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, C5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:090][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, D5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:091][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  3.0, E5, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:091][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 20 (NA):
+[2018.01.01-21.50.38:092][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, D5, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:092][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:092][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.0, A4, quarter, 1.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:092][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:092][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, start
+[2018.01.01-21.50.38:093][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 21 (NA):
+[2018.01.01-21.50.38:093][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 2.0, 0, none, 0, none, stop
+[2018.01.01-21.50.38:093][752]LogBlueprintUserMessages: [FileReader_80] [REST]  2.0, eighth, 0.5, 0
+[2018.01.01-21.50.38:093][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, none, none
+[2018.01.01-21.50.38:094][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 22 (NA):
+[2018.01.01-21.50.38:094][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A5, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:094][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:094][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:094][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:096][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 23 (NA):
+[2018.01.01-21.50.38:096][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, G5, half, 2.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:096][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, E5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, none
+[2018.01.01-21.50.38:096][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, D5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:097][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 24 (NA):
+[2018.01.01-21.50.38:097][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, E5, half, 3.0, 1, none, 0, none, start
+[2018.01.01-21.50.38:099][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 25 (NA):
+[2018.01.01-21.50.38:099][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, E5, quarter, 1.0, 0, none, 0, none, stop
+[2018.01.01-21.50.38:099][752]LogBlueprintUserMessages: [FileReader_80] [REST]  1.0, quarter, 1.0, 0
+[2018.01.01-21.50.38:099][752]LogBlueprintUserMessages: [FileReader_80] [REST]  2.0, eighth, 0.5, 0
+[2018.01.01-21.50.38:099][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, none, none
+[2018.01.01-21.50.38:100][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 26 (NA):
+[2018.01.01-21.50.38:100][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A5, half, 2.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:100][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:100][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:100][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:101][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 27 (NA):
+[2018.01.01-21.50.38:101][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, G5, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:101][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.0, E5, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:101][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, C5, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, none
+[2018.01.01-21.50.38:101][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, E5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:103][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 28 (NA):
+[2018.01.01-21.50.38:103][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, D5, quarter, 1.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:103][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.0, A4, quarter, 1.0, 0, none, 0, none, start
+[2018.01.01-21.50.38:103][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:103][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, C5, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, start
+[2018.01.01-21.50.38:103][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 29 (NA):
+[2018.01.01-21.50.38:104][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, C5, quarter, 1.5, 1, none, 0, none, stop
+[2018.01.01-21.50.38:104][752]LogBlueprintUserMessages: [FileReader_80] [REST]  1.5, eighth, 0.5, 0
+[2018.01.01-21.50.38:104][752]LogBlueprintUserMessages: [FileReader_80] [REST]  2.0, eighth, 0.5, 0
+[2018.01.01-21.50.38:104][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A4, eighth, 0.5, 0, none, 0, none, none
+[2018.01.01-21.50.38:105][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 30 (NA):
+[2018.01.01-21.50.38:105][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 2.0, 0, none, 0, none, none
+[2018.01.01-21.50.38:105][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:105][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.0, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]start, none
+[2018.01.01-21.50.38:105][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  2.5, A4, eighth, 0.5, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:106][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 31 (NA):
+[2018.01.01-21.50.38:107][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, G#4, quarter, 0.67, 0, none, 0, none, none
+[2018.01.01-21.50.38:107][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, quarter, 0.67, 0
+[2018.01.01-21.50.38:107][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.67, E4, quarter, 0.67, 0, none, 0, none, start
+[2018.01.01-21.50.38:107][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.33, E4, eighth, 0.33, 0, none, 0, [BEAM]1[b]start, stop
+[2018.01.01-21.50.38:107][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  1.67, B4, eighth, 0.33, 0, none, 0, [BEAM]1[b]stop, none
+[2018.01.01-21.50.38:107][752]LogBlueprintUserMessages: [FileReader_80] [REST]  2.0, quarter, 1.0, 0
+[2018.01.01-21.50.38:108][752]LogBlueprintUserMessages: [FileReader_80] Measure Number 32 (NA):
+[2018.01.01-21.50.38:108][752]LogBlueprintUserMessages: [FileReader_80] [NOTE]  0.0, A4, half, 3.0, 1, none, 0, none, none
+[2018.01.01-21.50.38:108][752]LogBlueprintUserMessages: [FileReader_80] [REST]  0.0, zero, 0.0, 0
+[2018.01.01-21.50.38:110][752]LogScript: Warning: Attempted to access index 0 from array measures_bass of length 0!
+	BP_MeasureSpawner_C /Game/Maps/UEDPIE_0_test.test:PersistentLevel.BP_MeasureSpawner_C_0
+	Function /Game/Blueprints/BP_MeasureSpawner.BP_MeasureSpawner_C:SpawnMeasures:02F8
+[2018.01.01-21.50.38:111][752]PIE: Error: Blueprint Runtime Error: Attempted to access index 0 from array measures_bass of length 0! from function: 'SpawnMeasures' from node: SpawnActor BP Measure in graph: SpawnMeasures in object: BP_MeasureSpawner with description: Attempted to access index 0 from array measures_bass of length 0!
+[2018.01.01-21.50.38:111][752]LogOutputDevice: Warning: 
+
+Script Stack:
+BP_MeasureSpawner_C.SpawnMeasures
+BP_MeasureSpawner_C.ExecuteUbergraph_BP_MeasureSpawner
+BP_MeasureSpawner_C.ReceiveBeginPlay
+BP_FileReader_C.ExecuteUbergraph_BP_FileReader
+BP_FileReader_C.ReceiveBeginPlay
+
+[2018.01.01-21.50.38:111][752]LogWindows: Windows GetLastError: The operation completed successfully. (0)

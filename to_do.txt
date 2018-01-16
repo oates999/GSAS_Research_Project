@@ -1,0 +1,152 @@
+Modelling:
+[X]	Rests
+	[X]	Whole
+	[X]	Half
+	[X]	Quarter
+	[X]	8th
+	[X]	16th
+	[X]	32nd
+[X]	Grand Staff Notation
+	[X]	Bass Cleff
+	[X]	Treble Cleff
+	[X]	Vertical Bars
+	[X]	Ledger Lines
+	[X]	End-of-Song Staff
+	[X]	Curly Brace
+	[X]	(exporting all of above)
+[X]	Numbers
+	[X]	0	[X]	1	[X]	2	[X]	3
+	[X]	4	[X]	5	[X]	6	[X]	7
+	[X]	8	[X]	9
+[X]	Alternate Tail-Notes
+	[X]	8th
+	[X]	16th
+	[X]	32nd
+
+[X]	Export all as FBXs (and upscale)
+	[X]	Rests
+	[X] Notes
+	[X]	Notation
+	[X]	Staffs
+	[X]	Numbers
+	[X]	Tail-Notes
+	[X]	Bulb-Only Meshes
+
+
+Programming:
+[X]	Make it so new .txt format does not crash game!!!
+
+[x]	Add more note heights (A3 specifically)
+[X]	Note flipping
+	[X] standard cases
+	[X] tail-note cases
+[X]	Refine .txt output (keep underlying formatting)
+[X]	Note Beams (tough. might need more from midi output)
+	[X] Bulb Mesh Updating
+	[X] Vertical Beams
+	[X]	Horizontal Beams
+		[X]	Eigth Note Beams
+		[X]	16th Note Beams
+		[X]	32nd Note Beams
+	[X]	Middle Vertical Beams
+	[X]	Altered Note Flipping
+[X] Note Ties
+[X]	Time-Signature that actually functions/updates
+[ ]	Chords
+	[X]	Bulb spawning (and updating)
+	[X]	Vertical Bar Spawning
+	[X]	Beam Integration
+	[X]	Correct height adjustment (based on bottom-most bulb)
+	[X]	Tie Integration
+	[X]	Accidental Display
+	[X]	Dot Display
+	[ ]	Articulation Display
+	[X]	Change file parsing to support symbol and type reading
+	[X]	Chord Expression Text
+	[ ]	Remove Chord Expression Text
+	[ ]	Implement ChordSymbols as separate blueprint class (and hide, for now)
+	[ ]	Change file parsing to account for changes
+		[ ]	Change chord parsing (removal of chord symbol fields)
+		[ ]	Change measure parsing
+			[ ]	Chord Symbol Field (new)
+			[ ]	Key Signature Field (fix what exists)
+			[ ]	Tempo Field (new)
+		[ ]	Add symbol parsing
+		[ ]	Add tempo parsing
+	[X]	Fix Bulb Visibility Issues
+	[-]	Hide Chord Expression Text as needed
+[ ]	Key Signatures
+	[ ]	Signature Arrays/Dictionaries
+	[ ]	Signatures Input
+	[ ]	Display Function
+	[ ]	Update Function
+[ ]	Tempos
+	[ ]	Display Function
+	[ ]	Update Function
+
+MIDI Reading:
+[ ]	Get spanners (slurs, crescendos, etc.)
+[X]	Get ties
+[X]	Get beams
+
+[ ] Completely rework .XML reader
+	[X]	Better organization and commenting
+	[X] More consistent note/measure parsing
+	[X] Possibly keep track of all beams (notes they connect)
+	[-]	Give all notes unique ID numbers (easier to search)
+	[-]	Figure out why incorrect chords are appearing
+	[X]	Differentiate between chords and chord symbols
+	[ ]	Get more complete information on spanners
+	[X]	Get tempo and key signature
+
+Things to get from .XML file:
+Part Level:
+	[X]	Clef
+	[ ]	Spanners
+	[X]	Measures
+Measure Level:
+	[X]	Time Signature
+	[X]	Key Signature (same as previous if None)
+	[X]	Tempo
+	[X] Notes
+	[X] Rests
+	[X]	Chords
+	[X] Dynamics
+	[X] Text Expressions
+	[X]	Measure Number
+Note Level:
+	[-]	ID
+	[X]	Name
+	[X] Octave
+	[X]	Type
+	[X]	Quarter Length
+	[X]	Dots
+	[X] Articulations
+	[X] Expressions
+	[X]	Beams
+	[X]	Ties
+	[X]	Offset
+	[X]	Measure Number
+Rest Level:
+	[X]	Type
+	[X]	Quarter Length
+	[X]	Dots
+	[X]	Measure Number
+	[X]	Offset
+Chord Level:
+	[X]	Symbol
+	[X]	Chord Type
+	[X]	Pitches
+	[X]	Type
+	[X]	Quarter Length
+	[X]	Dots
+	[X]	Articulaions
+	[X]	Expressions
+	[X]	Beams
+	[X]	Ties
+	[X]	Offset
+	[X]	Measure Number
+Spanner Level:
+	[X]	Class
+	[ ]	Begin Time
+	[ ]	End Time

@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Compiling game modules for hot reload
+  Performing 3 actions (4 in parallel)
+  ReadTxtFile.cpp
+  [2/3] Link UE4Editor-PianoPlayerVR-8000.dll
+  [3/3] Link UE4Editor-PianoPlayerVR-8000.lib
+     Creating library D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PianoPlayerVR-8000.suppressed.lib and object D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PianoPlayerVR-8000.suppressed.exp
+     Creating library D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PianoPlayerVR-8000.lib and object D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PianoPlayerVR-8000.exp
+  Deploying PianoPlayerVREditor Win64 Development...
+  Total build time: 2.18 seconds (Local executor: 1.02 seconds)

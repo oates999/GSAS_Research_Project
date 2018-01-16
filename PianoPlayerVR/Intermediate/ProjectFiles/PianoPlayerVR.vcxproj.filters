@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\PianoPlayerVR.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{FF01C881-222F-498E-B442-9E158FF85E95}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\PianoPlayerVR.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\PianoPlayerVREditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{734F27ED-BA86-4CAB-A6CC-FFD763A0D3EC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\PianoPlayerVR">
+			<UniqueIdentifier>{263EB52E-5B2F-465E-9C9D-E6E144196625}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\PianoPlayerVR\PianoPlayerVR.Build.cs">
+			<Filter>Source\PianoPlayerVR</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\PianoPlayerVR\PianoPlayerVR.cpp">
+			<Filter>Source\PianoPlayerVR</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PianoPlayerVR\PianoPlayerVR.h">
+			<Filter>Source\PianoPlayerVR</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PianoPlayerVR\ReadTxtFile.cpp">
+			<Filter>Source\PianoPlayerVR</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PianoPlayerVR\ReadTxtFile.h">
+			<Filter>Source\PianoPlayerVR</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\PianoPlayerVR\RWTxtFile.cpp">
+			<Filter>Source\PianoPlayerVR</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\PianoPlayerVR\RWTxtFile.h">
+			<Filter>Source\PianoPlayerVR</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

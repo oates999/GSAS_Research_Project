@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PianoPlayerVR-1235.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\PianoPlayerVR\PianoPlayerVR.cpp.obj"
+"D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\PianoPlayerVR\ReadTxtFile.cpp.obj"
+"D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\PianoPlayerVR\PianoPlayerVR.init.gen.cpp.obj"
+"D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\PianoPlayerVR\ReadTxtFile.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\PianoPlayerVR\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Repositories\MyRepositories\GSAS_Research_Project\PianoPlayerVR\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PianoPlayerVR-1235.lib"
